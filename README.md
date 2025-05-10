@@ -65,7 +65,6 @@ Power-ups and banana pills add excitement and challenge to the gameplay:
   - **Strategy**: Prepare for sudden control changes; use strategically to disrupt opponents in multiplayer (if implemented).
 
 ## 🌟 Additional Features
-<!-- Second-level header for additional features -->
 - **Track Design**: Elliptical track with inner and outer boundaries, defined by configurable radii (`TRACK_INNER_X_RADIUS`, `TRACK_OUTER_X_RADIUS`, etc.).
 - **Obstacle Placement**: Cones, potholes, power-ups, power-downs, and banana pills are placed randomly with collision checks to prevent overlap and ensure fair distribution.
 - **Health and Respawn**: Collisions reduce health (`HEALTH_DECREMENT`); off-track or boundary collisions trigger a respawn with a flicker effect (`RESPAWN_DELAY`).
@@ -74,7 +73,6 @@ Power-ups and banana pills add excitement and challenge to the gameplay:
 - **Reset Functionality**: Fully resets game state, including player position, obstacles, power-ups, and banana pills, for a fresh start.
 
 ## 💻 Languages and Libraries Used
-<!-- Second-level header for tech stack -->
 - **Languages**:
   - **Python**: Core language for game logic, physics, and rendering.
 - **Libraries**:
