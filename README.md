@@ -85,9 +85,7 @@ Power-ups and banana pills add excitement and challenge to the gameplay:
   - **random**: For randomized placement of obstacles, power-ups, power-downs, and banana pills.
   - **time**: For timing game events, lap tracking, and effect durations.
 
-## 📧 Contact Our Team
-<!-- Second-level header for contact info -->
-We’re a group of passionate developers eager to hear your feedback! Reach out to us:
+## 📧 About Us
 - [akm.shahadat.hossain@g.bracu.ac.bd](mailto:akm.shahadat.hossain@g.bracu.ac.bd)
 - [eftekhar.tanvir.efti@g.bracu.ac.bd](mailto:eftekhar.tanvir.efti@g.bracu.ac.bd)
 - [syed.izdian.siraji@g.bracu.ac.bd](mailto:syed.izdian.siraji@g.bracu.ac.bd)
