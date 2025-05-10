@@ -1,4 +1,4 @@
-# 🏎️ 2D OpenGL Racing Game 🚴‍♂️
+# 🏎️ FORMULA 423 🚴‍♂️
 
 Welcome to our thrilling 2D racing game, built with Python and OpenGL! Race around an elliptical track, choosing between a nimble bike or a sturdy car, as you dodge obstacles, collect power-ups, and navigate the chaotic effects of banana pills that reverse your controls. With smooth physics, a dynamic HUD, and immersive first- or third-person views, this game challenges your reflexes and strategic skills to complete laps before time runs out. Ready to burn some virtual rubber? Dive in and take it for a spin!
 
